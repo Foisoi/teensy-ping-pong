@@ -1,0 +1,5 @@
+/Users/tigrankashapov/Desktop/PingPong/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/tigrankashapov/Desktop/PingPong/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/tigrankashapov/Desktop/PingPong/cmake-build-debug/CMakeFiles/Z_DUMMY_TARGET.dir
+/Users/tigrankashapov/Desktop/PingPong/cmake-build-debug/CMakeFiles/Debug.dir
+/Users/tigrankashapov/Desktop/PingPong/cmake-build-debug/CMakeFiles/Production.dir
